@@ -1,0 +1,563 @@
+[
+  {
+    "code": "N39.0", 
+    "connections": [
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Escherichia coli [E. coli] as the cause of diseases classified to other chapters", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "External causes of morbidity and mortality;Drugs, medicaments and biological substances causing adverse effects in therapeutic use;Drug or medicament, unspecified", 
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus"
+    ], 
+    "name": "Diseases of the genitourinary system;Other diseases of urinary system;Urinary tract infection, site not specified"
+  }, 
+  {
+    "code": "A49.8", 
+    "connections": [
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Escherichia coli [E. coli] as the cause of diseases classified to other chapters", 
+      "External causes of morbidity and mortality;Drugs, medicaments and biological substances causing adverse effects in therapeutic use;Drug or medicament, unspecified", 
+      "Diseases of the nervous system;Other disorders of the nervous system;Benign intracranial hypertension", 
+      "Diseases of the circulatory system;Cerebrovascular diseases;Subarachnoid haemorrhage from anterior communicating artery"
+    ], 
+    "name": "Certain infectious and parasitic diseases;Other bacterial diseases;Other bacterial infections of unspecified site"
+  }, 
+  {
+    "code": "A49.0", 
+    "connections": [
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Staphylococcus aureus as the cause of diseases classified to other chapters", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified", 
+      "External causes of morbidity and mortality;Drugs, medicaments and biological substances causing adverse effects in therapeutic use;Drug or medicament, unspecified", 
+      "Diseases of the nervous system;Inflammatory diseases of the central nervous system;Intraspinal abscess and granuloma", 
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus"
+    ], 
+    "name": "Certain infectious and parasitic diseases;Other bacterial diseases;Staphylococcal infection, unspecified site"
+  }, 
+  {
+    "code": "T82.7", 
+    "connections": [
+      "External causes of morbidity and mortality;Medical devices associated with adverse incidents in diagnostic and therapeutic use;Other and unspecified medical devices associated with adverse incidents: Miscellaneous devices, not elsewhere classified", 
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Escherichia coli [E. coli] as the cause of diseases classified to other chapters", 
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified"
+    ], 
+    "name": "Injury, poisoning and certain other consequences of external causes;Complications of surgical and medical care, not elsewhere classified;Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts"
+  }, 
+  {
+    "code": "T81.4", 
+    "connections": [
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified", 
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Escherichia coli [E. coli] as the cause of diseases classified to other chapters", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Staphylococcus aureus as the cause of diseases classified to other chapters"
+    ], 
+    "name": "Injury, poisoning and certain other consequences of external causes;Complications of surgical and medical care, not elsewhere classified;Infection following a procedure, not elsewhere classified"
+  }, 
+  {
+    "code": "L08.9", 
+    "connections": [
+      "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;Symptoms and signs involving speech and voice;Dysphasia and aphasia", 
+      "Diseases of the circulatory system;Other forms of heart disease;Fibrillation auriculaire: Non precisee", 
+      "Diseases of the genitourinary system;Other diseases of urinary system;Urinary tract infection, site not specified", 
+      "Diseases of the respiratory system;Influenza and pneumonia;Lobar pneumonia, unspecified", 
+      "Diseases of the circulatory system;Cerebrovascular diseases;Sequelae of stroke, not specified as haemorrhage or infarction"
+    ], 
+    "name": "Diseases of the skin and subcutaneous tissue;Infections of the skin and subcutaneous tissue;Local infection of skin and subcutaneous tissue, unspecified"
+  }, 
+  {
+    "code": "B96.2", 
+    "connections": [
+      "Diseases of the genitourinary system;Other diseases of urinary system;Urinary tract infection, site not specified", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "External causes of morbidity and mortality;Drugs, medicaments and biological substances causing adverse effects in therapeutic use;Drug or medicament, unspecified", 
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus"
+    ], 
+    "name": "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Escherichia coli [E. coli] as the cause of diseases classified to other chapters"
+  }, 
+  {
+    "code": "Y84.9", 
+    "connections": [
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Escherichia coli [E. coli] as the cause of diseases classified to other chapters", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Staphylococcus aureus as the cause of diseases classified to other chapters", 
+      "Diseases of the genitourinary system;Other diseases of urinary system;Urinary tract infection, site not specified"
+    ], 
+    "name": "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified"
+  }, 
+  {
+    "code": "I10.90", 
+    "connections": [
+      "Endocrine, nutritional and metabolic diseases;Metabolic disorders;Pure hypercholesterolaemia", 
+      "Diseases of the nervous system;Cerebral palsy and other paralytic syndromes;Hemiplegia, unspecified", 
+      "External causes of morbidity and mortality;Accidental exposure to other and unspecified factors;Exposure to unspecified factor causing other and unspecified injury", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified", 
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Escherichia coli [E. coli] as the cause of diseases classified to other chapters"
+    ], 
+    "name": "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis"
+  }, 
+  {
+    "code": "Y57.9", 
+    "connections": [
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Escherichia coli [E. coli] as the cause of diseases classified to other chapters", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified", 
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "Diseases of the genitourinary system;Other diseases of urinary system;Urinary tract infection, site not specified", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis"
+    ], 
+    "name": "External causes of morbidity and mortality;Drugs, medicaments and biological substances causing adverse effects in therapeutic use;Drug or medicament, unspecified"
+  }, 
+  {
+    "code": "U69.00", 
+    "connections": [
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Escherichia coli [E. coli] as the cause of diseases classified to other chapters", 
+      "Diseases of the nervous system;Other disorders of the nervous system;Benign intracranial hypertension", 
+      "Diseases of the respiratory system;Lung diseases due to external agents;Pneumonitis due to food and vomit"
+    ], 
+    "name": "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus"
+  }, 
+  {
+    "code": "G93.2", 
+    "connections": [
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified", 
+      "Diseases of the circulatory system;Cerebrovascular diseases;Vasospasme au cours d'hemorragie sous-arachnoidienne", 
+      "Diseases of the nervous system;Other disorders of the nervous system;Cerebral oedema", 
+      "External causes of morbidity and mortality;Drugs, medicaments and biological substances causing adverse effects in therapeutic use;Drug or medicament, unspecified"
+    ], 
+    "name": "Diseases of the nervous system;Other disorders of the nervous system;Benign intracranial hypertension"
+  }, 
+  {
+    "code": "I60.2", 
+    "connections": [
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Escherichia coli [E. coli] as the cause of diseases classified to other chapters", 
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "Certain infectious and parasitic diseases;Other bacterial diseases;Other bacterial infections of unspecified site", 
+      "Diseases of the genitourinary system;Other diseases of urinary system;Urinary tract infection, site not specified", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified"
+    ], 
+    "name": "Diseases of the circulatory system;Cerebrovascular diseases;Subarachnoid haemorrhage from anterior communicating artery"
+  }, 
+  {
+    "code": "B95.6", 
+    "connections": [
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified", 
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Escherichia coli [E. coli] as the cause of diseases classified to other chapters", 
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "Diseases of the genitourinary system;Other diseases of urinary system;Urinary tract infection, site not specified", 
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Streptococcus, group D, as the cause of diseases classified to other chapters"
+    ], 
+    "name": "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Staphylococcus aureus as the cause of diseases classified to other chapters"
+  }, 
+  {
+    "code": "G06.1", 
+    "connections": [
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Staphylococcus aureus as the cause of diseases classified to other chapters", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified", 
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Escherichia coli [E. coli] as the cause of diseases classified to other chapters", 
+      "Codes for special purposes;Bacterial agents resistant to antibiotics;Penicillin resistant agent", 
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Streptococcus, group D, as the cause of diseases classified to other chapters"
+    ], 
+    "name": "Diseases of the nervous system;Inflammatory diseases of the central nervous system;Intraspinal abscess and granuloma"
+  }, 
+  {
+    "code": "Y82.8", 
+    "connections": [
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Escherichia coli [E. coli] as the cause of diseases classified to other chapters", 
+      "Injury, poisoning and certain other consequences of external causes;Complications of surgical and medical care, not elsewhere classified;Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified"
+    ], 
+    "name": "External causes of morbidity and mortality;Medical devices associated with adverse incidents in diagnostic and therapeutic use;Other and unspecified medical devices associated with adverse incidents: Miscellaneous devices, not elsewhere classified"
+  }, 
+  {
+    "code": "R47.0", 
+    "connections": [
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Diseases of the nervous system;Cerebral palsy and other paralytic syndromes;Hemiplegia, unspecified", 
+      "Endocrine, nutritional and metabolic diseases;Metabolic disorders;Pure hypercholesterolaemia", 
+      "Diseases of the circulatory system;Cerebrovascular diseases;Cerebral infarction due to embolism of cerebral arteries", 
+      "Mental and behavioural disorders;Mental and behavioural disorders due to psychoactive substance use;Mental and behavioural disorders due to use of tobacco: Harmful use"
+    ], 
+    "name": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;Symptoms and signs involving speech and voice;Dysphasia and aphasia"
+  }, 
+  {
+    "code": "I48.19", 
+    "connections": [
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Diseases of the nervous system;Cerebral palsy and other paralytic syndromes;Hemiplegia, unspecified", 
+      "Diseases of the circulatory system;Cerebrovascular diseases;Cerebral infarction due to embolism of cerebral arteries", 
+      "External causes of morbidity and mortality;Accidental exposure to other and unspecified factors;Exposure to unspecified factor causing other and unspecified injury", 
+      "Endocrine, nutritional and metabolic diseases;Metabolic disorders;Pure hypercholesterolaemia"
+    ], 
+    "name": "Diseases of the circulatory system;Other forms of heart disease;Fibrillation auriculaire: Non precisee"
+  }, 
+  {
+    "code": "J18.1", 
+    "connections": [
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "Diseases of the genitourinary system;Other diseases of urinary system;Urinary tract infection, site not specified", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "External causes of morbidity and mortality;Accidental exposure to other and unspecified factors;Exposure to unspecified factor causing other and unspecified injury", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified"
+    ], 
+    "name": "Diseases of the respiratory system;Influenza and pneumonia;Lobar pneumonia, unspecified"
+  }, 
+  {
+    "code": "I69.4", 
+    "connections": [
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Diseases of the nervous system;Cerebral palsy and other paralytic syndromes;Hemiplegia, unspecified", 
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;Symptoms and signs involving speech and voice;Dysphasia and aphasia", 
+      "Endocrine, nutritional and metabolic diseases;Metabolic disorders;Pure hypercholesterolaemia"
+    ], 
+    "name": "Diseases of the circulatory system;Cerebrovascular diseases;Sequelae of stroke, not specified as haemorrhage or infarction"
+  }, 
+  {
+    "code": "E78.0", 
+    "connections": [
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Diseases of the nervous system;Cerebral palsy and other paralytic syndromes;Hemiplegia, unspecified", 
+      "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;Symptoms and signs involving speech and voice;Dysphasia and aphasia", 
+      "Mental and behavioural disorders;Mental and behavioural disorders due to psychoactive substance use;Mental and behavioural disorders due to use of tobacco: Harmful use", 
+      "Diseases of the circulatory system;Cerebrovascular diseases;Cerebral infarction due to embolism of cerebral arteries"
+    ], 
+    "name": "Endocrine, nutritional and metabolic diseases;Metabolic disorders;Pure hypercholesterolaemia"
+  }, 
+  {
+    "code": "G81.9", 
+    "connections": [
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Endocrine, nutritional and metabolic diseases;Metabolic disorders;Pure hypercholesterolaemia", 
+      "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;Symptoms and signs involving speech and voice;Dysphasia and aphasia", 
+      "Diseases of the circulatory system;Cerebrovascular diseases;Cerebral infarction due to embolism of cerebral arteries", 
+      "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;Symptoms and signs involving speech and voice;Dysarthria and anarthria"
+    ], 
+    "name": "Diseases of the nervous system;Cerebral palsy and other paralytic syndromes;Hemiplegia, unspecified"
+  }, 
+  {
+    "code": "X59.9", 
+    "connections": [
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subarachnoid haemorrhage", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subdural haemorrhage", 
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Concussion"
+    ], 
+    "name": "External causes of morbidity and mortality;Accidental exposure to other and unspecified factors;Exposure to unspecified factor causing other and unspecified injury"
+  }, 
+  {
+    "code": "J69.0", 
+    "connections": [
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Endocrine, nutritional and metabolic diseases;Metabolic disorders;Pure hypercholesterolaemia", 
+      "Diseases of the nervous system;Other disorders of the nervous system;Benign intracranial hypertension", 
+      "External causes of morbidity and mortality;Accidental exposure to other and unspecified factors;Exposure to unspecified factor causing other and unspecified injury"
+    ], 
+    "name": "Diseases of the respiratory system;Lung diseases due to external agents;Pneumonitis due to food and vomit"
+  }, 
+  {
+    "code": "I67.80", 
+    "connections": [
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "Diseases of the nervous system;Other disorders of the nervous system;Benign intracranial hypertension", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Escherichia coli [E. coli] as the cause of diseases classified to other chapters"
+    ], 
+    "name": "Diseases of the circulatory system;Cerebrovascular diseases;Vasospasme au cours d'hemorragie sous-arachnoidienne"
+  }, 
+  {
+    "code": "G93.6", 
+    "connections": [
+      "Diseases of the nervous system;Other disorders of the nervous system;Benign intracranial hypertension", 
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "Diseases of the circulatory system;Cerebrovascular diseases;Subarachnoid haemorrhage from middle cerebral artery", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified", 
+      "Diseases of the respiratory system;Lung diseases due to external agents;Pneumonitis due to food and vomit"
+    ], 
+    "name": "Diseases of the nervous system;Other disorders of the nervous system;Cerebral oedema"
+  }, 
+  {
+    "code": "B95.2", 
+    "connections": [
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Escherichia coli [E. coli] as the cause of diseases classified to other chapters", 
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Staphylococcus aureus as the cause of diseases classified to other chapters", 
+      "Diseases of the genitourinary system;Other diseases of urinary system;Urinary tract infection, site not specified", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified", 
+      "External causes of morbidity and mortality;Drugs, medicaments and biological substances causing adverse effects in therapeutic use;Drug or medicament, unspecified"
+    ], 
+    "name": "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Streptococcus, group D, as the cause of diseases classified to other chapters"
+  }, 
+  {
+    "code": "U80.0", 
+    "connections": [
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Staphylococcus aureus as the cause of diseases classified to other chapters", 
+      "Factors influencing health status and contact with health services;Persons with potential health hazards related to communicable diseases;Carrier of other specified bacterial diseases", 
+      "Diseases of the nervous system;Cerebral palsy and other paralytic syndromes;Hemiplegia, unspecified", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified", 
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Escherichia coli [E. coli] as the cause of diseases classified to other chapters"
+    ], 
+    "name": "Codes for special purposes;Bacterial agents resistant to antibiotics;Penicillin resistant agent"
+  }, 
+  {
+    "code": "I63.4", 
+    "connections": [
+      "Diseases of the nervous system;Cerebral palsy and other paralytic syndromes;Hemiplegia, unspecified", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Endocrine, nutritional and metabolic diseases;Metabolic disorders;Pure hypercholesterolaemia", 
+      "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;Symptoms and signs involving speech and voice;Dysphasia and aphasia", 
+      "Diseases of the circulatory system;Other forms of heart disease;Fibrillation auriculaire: Non precisee"
+    ], 
+    "name": "Diseases of the circulatory system;Cerebrovascular diseases;Cerebral infarction due to embolism of cerebral arteries"
+  }, 
+  {
+    "code": "F17.1", 
+    "connections": [
+      "Endocrine, nutritional and metabolic diseases;Metabolic disorders;Pure hypercholesterolaemia", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Diseases of the nervous system;Cerebral palsy and other paralytic syndromes;Hemiplegia, unspecified", 
+      "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;Symptoms and signs involving speech and voice;Dysphasia and aphasia", 
+      "Mental and behavioural disorders;Mental and behavioural disorders due to psychoactive substance use;Mental and behavioural disorders due to use of alcohol: Dependence syndrome"
+    ], 
+    "name": "Mental and behavioural disorders;Mental and behavioural disorders due to psychoactive substance use;Mental and behavioural disorders due to use of tobacco: Harmful use"
+  }, 
+  {
+    "code": "R47.1", 
+    "connections": [
+      "Diseases of the nervous system;Cerebral palsy and other paralytic syndromes;Hemiplegia, unspecified", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Endocrine, nutritional and metabolic diseases;Metabolic disorders;Pure hypercholesterolaemia", 
+      "Diseases of the circulatory system;Cerebrovascular diseases;Cerebral infarction due to embolism of cerebral arteries", 
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Escherichia coli [E. coli] as the cause of diseases classified to other chapters"
+    ], 
+    "name": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;Symptoms and signs involving speech and voice;Dysarthria and anarthria"
+  }, 
+  {
+    "code": "S06.6", 
+    "connections": [
+      "External causes of morbidity and mortality;Accidental exposure to other and unspecified factors;Exposure to unspecified factor causing other and unspecified injury", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subdural haemorrhage", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Fracture of base of skull", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified"
+    ], 
+    "name": "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subarachnoid haemorrhage"
+  }, 
+  {
+    "code": "S06.5", 
+    "connections": [
+      "External causes of morbidity and mortality;Accidental exposure to other and unspecified factors;Exposure to unspecified factor causing other and unspecified injury", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subarachnoid haemorrhage", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Fracture of base of skull", 
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus"
+    ], 
+    "name": "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subdural haemorrhage"
+  }, 
+  {
+    "code": "S06.0", 
+    "connections": [
+      "External causes of morbidity and mortality;Accidental exposure to other and unspecified factors;Exposure to unspecified factor causing other and unspecified injury", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subdural haemorrhage", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subarachnoid haemorrhage", 
+      "Mental and behavioural disorders;Mental and behavioural disorders due to psychoactive substance use;Mental and behavioural disorders due to use of alcohol: Dependence syndrome"
+    ], 
+    "name": "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Concussion"
+  }, 
+  {
+    "code": "I60.1", 
+    "connections": [
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "Diseases of the nervous system;Other disorders of the nervous system;Cerebral oedema", 
+      "Diseases of the nervous system;Other disorders of the nervous system;Benign intracranial hypertension", 
+      "Diseases of the nervous system;Inflammatory diseases of the central nervous system;Meningitis, unspecified", 
+      "Diseases of the circulatory system;Cerebrovascular diseases;Vasospasme au cours d'hemorragie sous-arachnoidienne"
+    ], 
+    "name": "Diseases of the circulatory system;Cerebrovascular diseases;Subarachnoid haemorrhage from middle cerebral artery"
+  }, 
+  {
+    "code": "Z22.3", 
+    "connections": [
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Escherichia coli [E. coli] as the cause of diseases classified to other chapters", 
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Staphylococcus aureus as the cause of diseases classified to other chapters", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified", 
+      "Diseases of the nervous system;Cerebral palsy and other paralytic syndromes;Syndrome d'enfermement (locked-in syndrome)", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis"
+    ], 
+    "name": "Factors influencing health status and contact with health services;Persons with potential health hazards related to communicable diseases;Carrier of other specified bacterial diseases"
+  }, 
+  {
+    "code": "F10.2", 
+    "connections": [
+      "External causes of morbidity and mortality;Accidental exposure to other and unspecified factors;Exposure to unspecified factor causing other and unspecified injury", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subdural haemorrhage", 
+      "Diseases of the nervous system;Cerebral palsy and other paralytic syndromes;Hemiplegia, unspecified", 
+      "Mental and behavioural disorders;Mental and behavioural disorders due to psychoactive substance use;Mental and behavioural disorders due to use of tobacco: Harmful use"
+    ], 
+    "name": "Mental and behavioural disorders;Mental and behavioural disorders due to psychoactive substance use;Mental and behavioural disorders due to use of alcohol: Dependence syndrome"
+  }, 
+  {
+    "code": "S02.1", 
+    "connections": [
+      "External causes of morbidity and mortality;Accidental exposure to other and unspecified factors;Exposure to unspecified factor causing other and unspecified injury", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subarachnoid haemorrhage", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subdural haemorrhage", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Contusion cerebrale circonscrite", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Fracture of vault of skull"
+    ], 
+    "name": "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Fracture of base of skull"
+  }, 
+  {
+    "code": "G03.9", 
+    "connections": [
+      "Diseases of the circulatory system;Cerebrovascular diseases;Subarachnoid haemorrhage from middle cerebral artery", 
+      "Diseases of the nervous system;Other disorders of the nervous system;Benign intracranial hypertension", 
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "Diseases of the nervous system;Other disorders of the nervous system;Cerebral oedema", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified"
+    ], 
+    "name": "Diseases of the nervous system;Inflammatory diseases of the central nervous system;Meningitis, unspecified"
+  }, 
+  {
+    "code": "G83.80", 
+    "connections": [
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "Certain infectious and parasitic diseases;Bacterial, viral and other infectious agents;Escherichia coli [E. coli] as the cause of diseases classified to other chapters", 
+      "Diseases of the nervous system;Other disorders of the nervous system;Autres affections cerebrales precisees", 
+      "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;Symptoms and signs involving the digestive system and abdomen;Autres dysphagies, non precisees"
+    ], 
+    "name": "Diseases of the nervous system;Cerebral palsy and other paralytic syndromes;Syndrome d'enfermement (locked-in syndrome)"
+  }, 
+  {
+    "code": "S06.31", 
+    "connections": [
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Fracture of base of skull", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subarachnoid haemorrhage", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subdural haemorrhage", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Epidural haemorrhage", 
+      "External causes of morbidity and mortality;Accidental exposure to other and unspecified factors;Exposure to unspecified factor causing other and unspecified injury"
+    ], 
+    "name": "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Contusion cerebrale circonscrite"
+  }, 
+  {
+    "code": "S02.0", 
+    "connections": [
+      "External causes of morbidity and mortality;Accidental exposure to other and unspecified factors;Exposure to unspecified factor causing other and unspecified injury", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subdural haemorrhage", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subarachnoid haemorrhage", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Fracture of base of skull", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Epidural haemorrhage"
+    ], 
+    "name": "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Fracture of vault of skull"
+  }, 
+  {
+    "code": "G93.88", 
+    "connections": [
+      "Diseases of the nervous system;Cerebral palsy and other paralytic syndromes;Syndrome d'enfermement (locked-in syndrome)", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "Diseases of the nervous system;Other disorders of the nervous system;Cerebrospinal fluid leak", 
+      "Diseases of the respiratory system;Lung diseases due to external agents;Pneumonitis due to food and vomit"
+    ], 
+    "name": "Diseases of the nervous system;Other disorders of the nervous system;Autres affections cerebrales precisees"
+  }, 
+  {
+    "code": "R13.9", 
+    "connections": [
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Diseases of the nervous system;Cerebral palsy and other paralytic syndromes;Syndrome d'enfermement (locked-in syndrome)", 
+      "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;Symptoms and signs involving speech and voice;Dysphasia and aphasia", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subdural haemorrhage", 
+      "Diseases of the nervous system;Cerebral palsy and other paralytic syndromes;Hemiplegia, unspecified"
+    ], 
+    "name": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;Symptoms and signs involving the digestive system and abdomen;Autres dysphagies, non precisees"
+  }, 
+  {
+    "code": "S06.4", 
+    "connections": [
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Fracture of base of skull", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Fracture of vault of skull", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Contusion cerebrale circonscrite", 
+      "External causes of morbidity and mortality;Accidental exposure to other and unspecified factors;Exposure to unspecified factor causing other and unspecified injury", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subarachnoid haemorrhage"
+    ], 
+    "name": "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Epidural haemorrhage"
+  }, 
+  {
+    "code": "G96.0", 
+    "connections": [
+      "Diseases of the nervous system;Other disorders of the nervous system;Autres affections cerebrales precisees", 
+      "Diseases of the nervous system;Other disorders of the nervous system;Benign intracranial hypertension", 
+      "Diseases of the nervous system;Cerebral palsy and other paralytic syndromes;Syndrome d'enfermement (locked-in syndrome)", 
+      "External causes of morbidity and mortality;Other and unspecified transport accidents;Unspecified transport accident", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified"
+    ], 
+    "name": "Diseases of the nervous system;Other disorders of the nervous system;Cerebrospinal fluid leak"
+  }, 
+  {
+    "code": "V99.", 
+    "connections": [
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subarachnoid haemorrhage", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the thorax;Contusion et hematome du poumon", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Fracture of base of skull", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subdural haemorrhage", 
+      "External causes of morbidity and mortality;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure;Medical procedure, unspecified"
+    ], 
+    "name": "External causes of morbidity and mortality;Other and unspecified transport accidents;Unspecified transport accident"
+  }, 
+  {
+    "code": "S27.31", 
+    "connections": [
+      "External causes of morbidity and mortality;Other and unspecified transport accidents;Unspecified transport accident", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subarachnoid haemorrhage", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the thorax;Traumatic pneumothorax", 
+      "Codes for special purposes;Pneumonie acquise a l'hopital, classee dans un autre chapitre, chez les patients ages de 18 ans et plus", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Fracture of malar and maxillary bones"
+    ], 
+    "name": "Injury, poisoning and certain other consequences of external causes;Injuries to the thorax;Contusion et hematome du poumon"
+  }, 
+  {
+    "code": "S27.0", 
+    "connections": [
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the thorax;Contusion et hematome du poumon", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Plaie ouverte non precisee d'autres parties de la tete", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subarachnoid haemorrhage", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Fracture of base of skull"
+    ], 
+    "name": "Injury, poisoning and certain other consequences of external causes;Injuries to the thorax;Traumatic pneumothorax"
+  }, 
+  {
+    "code": "S02.4", 
+    "connections": [
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Fracture of base of skull", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subdural haemorrhage", 
+      "External causes of morbidity and mortality;Accidental exposure to other and unspecified factors;Exposure to unspecified factor causing other and unspecified injury", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subarachnoid haemorrhage"
+    ], 
+    "name": "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Fracture of malar and maxillary bones"
+  }, 
+  {
+    "code": "S01.80", 
+    "connections": [
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the thorax;Traumatic pneumothorax", 
+      "Diseases of the circulatory system;Hypertensive diseases;Essential hypertension , unspecified : Without mention of hypertensive crisis", 
+      "External causes of morbidity and mortality;Accidental exposure to other and unspecified factors;Exposure to unspecified factor causing other and unspecified injury", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Traumatic subarachnoid haemorrhage", 
+      "Injury, poisoning and certain other consequences of external causes;Injuries to the thorax;Contusion et hematome du poumon"
+    ], 
+    "name": "Injury, poisoning and certain other consequences of external causes;Injuries to the head;Plaie ouverte non precisee d'autres parties de la tete"
+  }
+]

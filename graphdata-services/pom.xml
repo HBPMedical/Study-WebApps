@@ -1,0 +1,174 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.hbp.restful</groupId>
+	<artifactId>services-graphdata</artifactId>
+	<packaging>war</packaging>
+	<version>1.0-SNAPSHOT</version>
+	<url>http://maven.apache.org</url>
+	
+	<properties>
+		<jdk.home>${java.home}</jdk.home>
+		<base.endpoint>/server/hbp_mip</base.endpoint>
+	</properties>
+
+	<profiles>
+		<profile>
+	      <id>default</id>
+	      <activation><activeByDefault>true</activeByDefault></activation>
+	      <properties>
+	      	<source.directory>src/main/java</source.directory>
+			<endpoint.sunburst.wsdl>http://localhost:9090${base.endpoint}/sunburst/services/sunburst?wsdl</endpoint.sunburst.wsdl>
+			<endpoint.bargraph_patient.wsdl>http://localhost:9090${base.endpoint}/barchart_patient/services/barchart_patient?wsdl</endpoint.bargraph_patient.wsdl>
+			<endpoint.barchart_diagnostic_codes.wsdl>http://localhost:9090${base.endpoint}/barchart_diagnostic_codes/services/barchart_diagnostic_codes?wsdl</endpoint.barchart_diagnostic_codes.wsdl>
+	      </properties>
+	      <build>
+	      	<plugins>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-antrun-plugin</artifactId>
+					<executions>
+						<execution>
+							<phase>validate</phase>
+							<goals>
+								<goal>run</goal>
+							</goals>
+							<configuration>
+								<tasks>
+									<exec executable="${jdk.home}/../bin/wsimport">
+										<arg
+											line="-keep -encoding utf8
+											-s ${basedir}/src/main/java -p org.hbp.graphdata.services.soap.client.sunburst
+									      	-Xnocompile ${endpoint.sunburst.wsdl}" />
+									</exec>
+									<exec executable="${jdk.home}/../bin/wsimport">
+										<arg
+											line="-keep -encoding utf8
+											-s ${basedir}/src/main/java -p org.hbp.graphdata.services.soap.client.diagnostic
+									      	-Xnocompile ${endpoint.barchart_diagnostic_codes.wsdl}" />
+									</exec> 
+									<exec executable="${jdk.home}/../bin/wsimport">
+										<arg
+											line="-keep -encoding utf8
+											-s ${basedir}/src/main/java -p org.hbp.graphdata.services.soap.client.patient
+									      	-Xnocompile ${endpoint.bargraph_patient.wsdl}" />
+									</exec>
+								</tasks>
+							</configuration>
+						</execution>
+					</executions>
+				</plugin>
+	      	</plugins>
+	      </build>
+	    </profile>
+		<profile>
+	      <id>delivery</id>
+	      <properties>
+	      	<source.directory>src/main/java</source.directory>
+			<endpoint.sunburst.wsdl>http://hbpfed1.chuv.ch:9090${base.endpoint}/sunburst/services/sunburst?wsdl</endpoint.sunburst.wsdl>
+			<endpoint.bargraph_patient.wsdl>http://hbpfed1.chuv.ch:9090${base.endpoint}/barchart_patient/services/barchart_patient?wsdl</endpoint.bargraph_patient.wsdl>
+			<endpoint.barchart_diagnostic_codes.wsdl>http://hbpfed1.chuv.ch:9090${base.endpoint}/barchart_diagnostic_codes/services/barchart_diagnostic_codes?wsdl</endpoint.barchart_diagnostic_codes.wsdl>
+	      </properties>
+	      <build>
+	      	<plugins>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-antrun-plugin</artifactId>
+					<executions>
+						<execution>
+							<phase>validate</phase>
+							<goals>
+								<goal>run</goal>
+							</goals>
+							<configuration>
+								<tasks>
+									<exec executable="${jdk.home}/../bin/wsimport">
+										<arg
+											line="-keep -encoding utf8
+											-s ${basedir}/src/main/java -p org.hbp.graphdata.services.soap.client.sunburst
+									      	-Xnocompile ${endpoint.sunburst.wsdl}" />
+									</exec>
+									<exec executable="${jdk.home}/../bin/wsimport">
+										<arg
+											line="-keep -encoding utf8
+											-s ${basedir}/src/main/java -p org.hbp.graphdata.services.soap.client.diagnostic
+									      	-Xnocompile ${endpoint.barchart_diagnostic_codes.wsdl}" />
+									</exec> 
+									<exec executable="${jdk.home}/../bin/wsimport">
+										<arg
+											line="-keep -encoding utf8
+											-s ${basedir}/src/main/java -p org.hbp.graphdata.services.soap.client.patient
+									      	-Xnocompile ${endpoint.bargraph_patient.wsdl}" />
+									</exec>
+								</tasks>
+							</configuration>
+						</execution>
+					</executions>
+				</plugin>
+	      	</plugins>
+	      </build>
+	    </profile>
+		<profile>
+	      <id>mock</id>
+	      <properties>
+	      	<source.directory>src/mock/java</source.directory>
+	      </properties>
+	    </profile>
+	</profiles>
+
+	<repositories>
+		<repository>
+			<id>maven2-repository.java.net</id>
+			<name>Java.net Repository for Maven</name>
+			<url>http://download.java.net/maven/2/</url>
+			<layout>default</layout>
+		</repository>
+	</repositories>
+
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.12</version>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>com.sun.jersey</groupId>
+			<artifactId>jersey-server</artifactId>
+			<version>1.8</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.sun.jersey</groupId>
+			<artifactId>jersey-json</artifactId>
+			<version>1.8</version>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>log4j-over-slf4j</artifactId>
+			<version>1.7.10</version>
+		</dependency>
+		<dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20141113</version>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<finalName>${project.artifactId}</finalName>
+		<sourceDirectory>${source.directory}</sourceDirectory>
+		<plugins>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>2.5.1</version>
+				<configuration>
+					<source>1.6</source>
+					<target>1.6</target>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>

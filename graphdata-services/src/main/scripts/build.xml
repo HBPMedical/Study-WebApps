@@ -1,0 +1,21 @@
+<project>
+	<property name="jdk.home" value="C:\DATA\jdk-8" />
+	<property name="endpoint.wsdl" value="http://localhost:9090/server/hbp_chuv/sunburst/services/sunburst?wsdl" />
+	<!-- ================================= 
+          target: ws-import client              
+         ================================= -->
+	<target name="ws-import client" description="description">
+		<exec executable="${jdk.home}/bin/wsimport">
+			<arg line="-keep -s ${basedir}\..\java -p org.hbp.patient.graphdata.services.soap.client
+	      	-Xnocompile ${endpoint.wsdl}" />
+		</exec>
+<!--
+    	-s ..\..\src\main\java 
+    	-p org.hbp.patient.graphdata.services.soap.client 
+    	-Xnocompile 
+    	http://localhost:9090/server/hbp_chuv/sunburst/services/sunburst?wsdl    	
+-->
+	</target>
+
+
+</project>

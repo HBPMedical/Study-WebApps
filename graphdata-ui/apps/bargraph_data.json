@@ -1,0 +1,115 @@
+{
+  "counts": [
+    [
+      "diagnosis", 
+      "total", 
+      "men", 
+      "women"
+    ], 
+    [
+      "Low back pain", 
+      55, 
+      22, 
+      33
+    ], 
+    [
+      "Other chest pain", 
+      32, 
+      13, 
+      19
+    ], 
+    [
+      "Other and unspecified abdominal pain", 
+      17, 
+      6, 
+      11
+    ], 
+    [
+      "Pain localized to upper abdomen", 
+      15, 
+      3, 
+      12
+    ], 
+    [
+      "Pain, unspecified", 
+      13, 
+      8, 
+      5
+    ], 
+    [
+      "Chest pain, unspecified", 
+      12, 
+      6, 
+      6
+    ], 
+    [
+      "Other chronic pain", 
+      10, 
+      4, 
+      6
+    ], 
+    [
+      "Pain localized to other parts of lower abdomen", 
+      7, 
+      3, 
+      4
+    ], 
+    [
+      "Precordial pain", 
+      7, 
+      3, 
+      4
+    ], 
+    [
+      "Pain in throat", 
+      3, 
+      0, 
+      3
+    ], 
+    [
+      "Acute pain", 
+      2, 
+      0, 
+      2
+    ], 
+    [
+      "Phantom limb syndrome with pain", 
+      1, 
+      1, 
+      0
+    ], 
+    [
+      "Ocular pain", 
+      1, 
+      0, 
+      1
+    ], 
+    [
+      "Painful micturition, unspecified", 
+      1, 
+      1, 
+      0
+    ], 
+    [
+      "Chronic intractable pain", 
+      1, 
+      0, 
+      1
+    ], 
+    [
+      "Atypical facial pain", 
+      1, 
+      0, 
+      1
+    ], 
+    [
+      "Pelvic and perineal pain", 
+      1, 
+      0, 
+      1
+    ]
+  ], 
+  "keyword": "pain", 
+  "limit": 18, 
+  "option": "counts"
+}
